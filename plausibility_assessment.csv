@@ -1,0 +1,10 @@
+Feature,Importance,StdDev,Biomedical Support,Citation
+Resistin,0.10524475524475527,0.04699167150394495,Strong support,Chu et al. 2024; Patrício et al. 2018
+Glucose,0.09871794871794876,0.09234866706128785,Strong support,Patrício et al. 2018
+Age,0.040093240093240126,0.029291898769793136,Strong support,Giaquinto et al. 2024
+BMI,0.030769230769230795,0.022450348023933805,Strong support,Naranjo-Torres et al. 2024 (post-menopausal)
+Adiponectin,0.004195804195804235,0.007574860983343556,Contested / inverse,Naranjo-Torres et al. 2024
+HOMA,-0.009207459207459157,0.02695534852312989,Strong support,Naranjo-Torres et al. 2024
+Leptin,-0.014102564102564049,0.01949873348382748,Strong support,"Chu et al. 2024 (JAK/STAT, MAPK)"
+MCP.1,-0.015268065268065244,0.009272145968857245,Moderate support,Chu et al. 2024 (tumour microenvironment)
+Insulin,-0.01724941724941719,0.015867946317125882,Strong support,Chu et al. 2024 (IGF-1 axis)
