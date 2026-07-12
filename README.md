@@ -1,5 +1,5 @@
-Predictive Modelling of Breast Cancer Diagnosis Using Machine Learning Techniques
-A comparative evaluation and interpretation of five supervised machine learning classifiers for the early prediction of breast cancer, using anthropometric and serological biomarkers from the Breast Cancer Coimbra Dataset (BCCD).
+BREAST CANCER DETECTION USING ADVANCED MACHINE LEARNING TECHNIQUES
+A comparative evaluation and interpretation of five supervised machine learning classifiers for the detection of breast cancer, using anthropometric and serological biomarkers from the Breast Cancer Coimbra Dataset (BCCD).
 This repository accompanies a Higher Diploma in Science in Data Analytics dissertation at Dublin Business School.
 ---
 Project Overview
@@ -82,7 +82,7 @@ Clinical plausibility triangulation table
 Serialised best-model file (`.pkl`)
 ---
 Limitations
-Small sample (n = 116) constrains statistical power and elevates performance variance.
+A small sample (n = 116) constrains statistical power and elevates performance variance.
 Single-site Portuguese cohort limits generalisability to other populations.
 Cross-sectional, single-time-point measurements preclude longitudinal modelling.
 No external validation cohort; results are internal benchmarks.
